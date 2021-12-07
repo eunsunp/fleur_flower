@@ -110,6 +110,7 @@
 }
 .icon-align-center:before {
   content: "\e028";
+  display: none;
 }
 .icon-align-right:before {
   content: "\e029";
