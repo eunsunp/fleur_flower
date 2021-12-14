@@ -12,6 +12,7 @@
 		numSlides:          $('.slide').length,
 		navPrev:            $('.js-prev'),
 		navNext:            $('.js-next'),
+		mousewheel: true,
 	  },
 	  
 	  /**
